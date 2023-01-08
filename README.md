@@ -4,6 +4,8 @@
   - 🎓 I am a Frontend developer currently pursuing a Bachelor degree in computer engineering at the university of Lagos, Nigeria.
   - 🌱 Currently learning Vue js and also intrested in Web3.
   - 🎯 my goal is to attempt the guru challenge on the [frontendmentor.com](https://www.frontendmentor.io/challenges?difficulties=5).
+  - 👯 I’m looking to collaborate on open source projects.
+  - 📫 How to reach me: [chigozieerigo05@gmail.com](mailto:chigozieerigo05@gmail.com)
   - ✨ when i am not coding i enjoy playing fifa, chess and watching anime.
   
 ## My Skill
@@ -24,6 +26,17 @@
  ![FramerMotion](https://img.shields.io/badge/FramerMotion-D112B9?style=for-the-badge&logo=&logoColor=white)
  <br />
  ![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=MUI&logoColor=white)
+ 
+ 
+ <br>
+  <br>
+  <p>
+  <img src = "https://github-readme-stats.vercel.app/api?username=nick335&show_icons=true&theme=tokyonight&line_height=27">
+</p>
+
+![Profile views](https://gpvc.arturio.dev/nick335)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nick335)](https://git.io/streak-stats)
  
  ## Connect With Me
  <div id="badges">
