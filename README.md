@@ -2,7 +2,7 @@
 
 ## About Me
   - 🎓 I am a Frontend developer currently pursuing a Bachelor degree in computer engineering at the university of Lagos, Nigeria.
-  - 🌱 Currently learning Vue js and also intrested in Web3.
+  - 🌱 Currently learning Next js and also intrested in Web3.
   - 🎯 my goal is to attempt the guru challenge on the [frontendmentor.com](https://www.frontendmentor.io/challenges?difficulties=5).
   - 👯 I’m looking to collaborate on open source projects.
   - 📫 How to reach me: [chigozieerigo05@gmail.com](mailto:chigozieerigo05@gmail.com)
