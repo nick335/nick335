@@ -2,7 +2,7 @@
 
 ## About Me
   - 🎓 I am a Frontend developer currently pursuing a Bachelor degree in computer engineering at the university of Lagos, Nigeria.
-  - 🌱 Currently learning Next js and also intrested in Web3.
+  - 🌱 Currently learning Vue js and also intreseted in Web3.
   - 🎯 my goal is to attempt the guru challenge on the [frontendmentor.com](https://www.frontendmentor.io/challenges?difficulties=5).
   - 👯 I’m looking to collaborate on open source projects.
   - 📫 How to reach me: [chigozieerigo05@gmail.com](mailto:chigozieerigo05@gmail.com)
@@ -26,8 +26,12 @@
  ![FramerMotion](https://img.shields.io/badge/FramerMotion-D112B9?style=for-the-badge&logo=&logoColor=white)
  <br />
  ![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=MUI&logoColor=white)
- 
- 
+ ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+ ![Zustand](https://img.shields.io/badge/Zustand-18181B?style=for-the-badge&logo=Zustand&logoColor=white)
+ <br />
+ ![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+ ![SWR](https://img.shields.io/badge/SWR-000000?style=for-the-badge&logo=SWR&logoColor=white)
+
   <br>
   <br>
   <p>
