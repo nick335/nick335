@@ -41,7 +41,7 @@ A pizza store for pizza lovers 🍕 — browse, customize, and order.
 **Tech:** React · SCSS · React Router
 [🔗 Live Demo](#) • [📂 Repo](#)
 
-> ⚠️ Replace the `(#)` and `[link]` placeholders above with your real live-demo and repo URLs.
+
 
 ---
 
